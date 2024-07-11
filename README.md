@@ -1,6 +1,12 @@
 # LScript 1.0
 ## An under development interpreted programming language made with C++
-The vision is to make it more user friendly to help learners to learn programming easily.
+The vision is to make it more user friendly to help learners to learn programming easily. You can see some examples of basic program in the /examples folder.
+To create a LScript program you need to create file with .lsc extension. To use the interpreter of LScript open the LScript executable.
+
+### To run a lsc file or LScript Program use the command bellow:
+```
+/path/to/LScript filename.lsc
+```
 
 ### Current Features:
 1. Variable
@@ -63,3 +69,5 @@ else
 ```
 showVarTable()
 ```
+
+
