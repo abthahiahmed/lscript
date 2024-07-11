@@ -2,7 +2,7 @@
 ## An under development interpreted programming language made with C++
 The vision is to make it more user friendly to help learners to learn programming easily.
 
-### Current Functionality:
+### Current Features:
 1. Variable
 2. Array
 3. Loop
